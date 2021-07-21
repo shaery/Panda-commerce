@@ -1,0 +1,20 @@
+.inform-bg{
+    background-color: rgb(255, 221, 221);
+}
+
+.categories img{
+    width: 100px;
+}
+
+.categories h1{
+    margin-right: 100px;
+}
+
+.action-btn{
+    background-image: linear-gradient(to bottom, #FF5498 0%, #FF1570 100%);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 8px;
+    border: none;
+}
